@@ -1,4 +1,4 @@
 # Languagedetectionresearchpaper
 
 
-Along with my team members Diya Vora and Neha Yadav under the guidance of Dr Manish Rana, we have published a research paper on Language Detection using  Multinomial Naive Bayes Algorithm.
+Under the guidance of Dr. Manish Rana, I co-authored a research paper on Language Detection using Multinomial Naive Bayes Algorithm with my teammates Diya Vora and Neha Yadav.
